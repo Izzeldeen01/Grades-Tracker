@@ -151,4 +151,4 @@ function storage (){
 
 // console.log(typeof(Classgrade.prototype.allgrades.cource));
 
-result(); 
+// result(); 
